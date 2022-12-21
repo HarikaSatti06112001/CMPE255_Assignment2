@@ -1,5 +1,4 @@
-# CMPE255_Assignment2
-
+# Pycaret
 #Anamoly Detection
 https://github.com/HarikaSatti06112001/Data-Mining/blob/main/AnamolyDetection_cmpe255.ipynb
 
